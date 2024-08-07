@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**egorzhartun/egorzhartun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+  <td>
+<p align="center">
+  <samp>
+    No bio yet<br/>
+    <a href="#">Website</a> .
+    <a href="#">Twitter</a> .
+    <a href="#">LinkedIn</a>
+  </samp>
+</p>
+</td>
+    <td>
+<p align="center">
+  <a href="https://nuxters.nuxt.com/atinux"><img src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260" alt="#" width="300" /></a>
+</p>
+      </td>
+</tr>
+</table>
