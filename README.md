@@ -1,4 +1,4 @@
-<p style="text-align:center;">
+<p>
   <samp>
     Full stack web developer with 1,5+ years of experience coding
               websites.<br/>
